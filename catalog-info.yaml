@@ -14,6 +14,7 @@ metadata:
     backstage.io/kubernetes-id: arti-test-go 
     backstage.io/techdocs-ref: dir:. 
     janus-idp.io/tekton: arti-test-go
+    jfrog-artifactory/image-name: bootstrap
   tags: ["go", "sscs", "sbom", "acs"] 
 spec:
   type: service
